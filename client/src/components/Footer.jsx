@@ -14,7 +14,7 @@ const Footer = () => {
                 </a>
                 . The source code is available on {" "}
                 <a 
-                    href="https://github.com/praksokpanha"
+                    href="https://github.com/praksokpanha/Netflix-Clone/tree/master"
                     target="_blank"
                     rel="noreferrer"
                     className="font-meduim underline underlin-offset-4"
